@@ -40,31 +40,15 @@ index.html             - halaman utama (static)
 style.css              - kustomisasi tema dan variabel warna
 README.md              - dokumentasi ini
 
-Asal Template dan Author
-------------------------
-- Template asli: "Business" oleh Ayro UI, didistribusikan melalui ThemeWagon.
-- Adaptasi dan konten sekolah: Modifikasi untuk SMK Prima Bangsa oleh Tim IT SMK Prima Bangsa.
-
-Jika Anda memerlukan kredit asli template:
-- Template asli: Ayro UI — https://ayroui.com/
-- Distribusi: ThemeWagon — https://themewagon.com/
-
 Lisensi
 -------
 Kode sumber template asli mengikuti lisensi MIT (cek file lisensi asli jika ada). Modifikasi ini disediakan untuk
 keperluan sekolah. Jika ingin menggunakan kembali secara publik atau komersial, periksa lisensi asli dan
 informasi hak cipta dari Ayro UI / ThemeWagon.
 
-Kontak pengembang situs
------------------------
-Tim IT SMK Prima Bangsa
-Email: info@smkprimabangsa.sch.id
-Alamat: Jl. Contoh No. 123, Kota Contoh
-
 Catatan untuk pengelola
 -----------------------
-- Untuk fitur pendaftaran (PPDB) lanjutan yang membutuhkan upload dokumen atau penyimpanan data, dibutuhkan
+- Untuk fitur pendaftaran (PMB) lanjutan yang membutuhkan upload dokumen atau penyimpanan data, dibutuhkan
 	backend (mis. server PHP/Node/Python dan database) atau integrasi ke Google Forms / layanan email. Saya dapat
 	membantu menambahkan form front-end atau membuat rancangan backend apabila Anda menginginkannya.
 
-Terima kasih semoga README ini membantu Anda mengelola dan mengembangkan situs resmi SMK Prima Bangsa.
